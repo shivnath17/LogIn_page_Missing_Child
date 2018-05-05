@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "622788191357",
+    "firebase_url": "https://notification-930d0.firebaseio.com",
+    "project_id": "notification-930d0",
+    "storage_bucket": "notification-930d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622788191357:android:0c58e3cefd1ba288",
+        "android_client_info": {
+          "package_name": "com.example.shivnath.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622788191357-ras4evabb21mm5nnr4498n25q37f6s1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd6W8GWaTaCGCHQ_thlkuEJ0UY8uyvjsA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
